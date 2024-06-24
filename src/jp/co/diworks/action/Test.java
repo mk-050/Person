@@ -43,7 +43,7 @@ public class Test {
 		hanako.talk();
 		hanako.walk();
 		hanako.run();
-		
+
 		System.out.println(" ");
 
 		Robot aibo = new Robot();
@@ -51,7 +51,7 @@ public class Test {
 		aibo.talk();
 		aibo.walk();
 		aibo.run();
-		
+
 		System.out.println(" ");
 
 		Robot asimo = new Robot();
@@ -59,7 +59,7 @@ public class Test {
 		asimo.talk();
 		asimo.walk();
 		asimo.run();
-		
+
 		System.out.println(" ");
 
 		Robot pepper = new Robot();
